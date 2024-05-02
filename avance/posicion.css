@@ -1,0 +1,54 @@
+.encabecezado{
+background-color: peru;
+color: white;
+text-align: center;
+padding: 49px 0;
+position: fixed;
+width: 100%;
+}
+.caja1
+{
+	position: relative;
+	left: 1px;
+	top: 10px;
+
+}
+.caja2
+{
+	position: relative;
+	left: 750px;
+	top: 30px;
+}
+.caja3
+{
+	position: relative;
+	top: 200px;
+	left: 10px;
+}
+.caja4
+{
+	position: relative;
+	left: 10px;
+	top: 850px;
+}
+.caja5
+{
+	position: relative;
+	left: 0px;
+	top: 600px;
+}
+.caja6
+{
+	position: relative;
+	left: 760px;
+	top: 450px;
+
+}
+.contenedor
+{
+	position: relative;
+	display: flex;
+	flex-wrap: wrap;
+	top:  150px;
+}
+.contenedor figura
